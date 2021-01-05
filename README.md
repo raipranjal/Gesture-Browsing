@@ -1,4 +1,4 @@
-# Hand-Web-Browser
+# Gesture-Based-Web-Browsing
 Web Browser control using hand gestures
 
 Hand-Web Browser
